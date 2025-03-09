@@ -1,1 +1,1 @@
-{"name":"LifeQuest","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"react-native":"0.78.0"}}
+{"name":"LifeQuest","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"react-native":"^0.78.0"},"devDependencies":{"@react-native-community/cli":"^11.3.6","@react-native/metro-config":"^0.72.11","metro-config":"^0.82.0"}}
